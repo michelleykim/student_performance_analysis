@@ -1,2 +1,6 @@
 # student_performance_analysis
-DSCI 100 project-003-7
+## DSCI 100 project-003-7
+
+Our project is centred around the question, does study time influence student grades? We want to discover the relationship between a student's grades and study time. This topic is particularly fascinating as it is common practice for instructors to suggest higher study time anytime there is an examination and a generous amount throughout the semester; so does this practice reign true? According to multiple articles and studies, proper study time is the key to successful grades (Oxford Learning, 2018), however, sometimes that is not the case for some students and the study time-grade relationship may be spurious (Olivares, 2002). Through this project, we wish to further clarify the debate of study time and grades using the data from two different Portuguese schools.
+
+We will be working with the “Student Performance” data set, collected by Paulo Cortez at the University of Minho. The data set contains information gathered from students at two different Portuguese secondary schools. The information collected includes student grades, social and study habits, study time, and family background. The data set also tracks first-period, second-period, and final grades in Mathematics on an integer scale from 0 to 20, 0 being the lowest possible grade and 20 being the highest.
